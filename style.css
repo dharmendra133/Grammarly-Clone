@@ -70,7 +70,7 @@ button{
     margin: auto;
     display: flex;
     position: relative;;
-    margin-top: 70px;
+    margin-top: -80px;
     cursor:pointer;
 }
 
